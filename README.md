@@ -1,6 +1,6 @@
 ### Twitch - Simple C++ / OpenGL 2d Game
 
-i created this repo to keep following of what i'm learn in OpenGL 2d Rendering programming
+i created this repo to keep following of what i learn in OpenGL 2d Rendering programming
 
 i'm coding this project like a popular C++/OpenGL game programming live set of tutorials, provided by **@Progrematic (youtube channel)** 
 
